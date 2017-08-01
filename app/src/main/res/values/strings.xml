@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ChallengeApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="s_date">sDate</string>
+    <string name="s_url">sUrl</string>
+    <string name="s_gapchart">sGapchart</string>
+    <string name="s_artist">sArtist</string>
+    <string name="s_venue">sVenue</string>
+    <string name="s_location">sLocation</string>
+    <string name="s_setlistdata">sSetlistdata</string>
+    <string name="s_notes">sNotes</string>
+    <string name="s_rating">sRating</string>
+    <string name="u_key">uKey</string>
+    <string name="p_key">pKey</string>
+
+
+</resources>
